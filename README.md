@@ -21,5 +21,7 @@
 ###### 本專案分析方法：
   1. 資料集：2016~2018網路公開之新聞、論壇、PTT、股市價量交易資訊，並已過濾較不相關的文章(如日常例行發文、過短內容等)
   範例圖：![image](https://user-images.githubusercontent.com/51256347/123574900-42abf800-d803-11eb-9148-87953883c911.png)
+  ![image](https://user-images.githubusercontent.com/51256347/123578168-d089e200-d807-11eb-8a6b-c43568392dea.png)
+
 
   3. 
