@@ -6,6 +6,7 @@
 
 ###### 目標
   * 內容分析學派的興起
+  * 
   ![image](https://user-images.githubusercontent.com/51256347/123567240-45532100-d7f4-11eb-9f65-5a511551b2ee.png)
 
 
